@@ -1,5 +1,5 @@
 variable "region" {
-  description = "This is the cloud hosting region where your webapp will be deployed."
+  description = "This is the cloud hosting (aws in this case) region where your webapp will be deployed."
 }
 
 variable "prefix" {
